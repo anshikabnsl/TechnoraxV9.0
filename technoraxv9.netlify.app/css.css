@@ -1,0 +1,935 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs0wH8RnA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs1wH8RnA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wH8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks6FospT4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks6VospT4.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks51os.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_A8s52Hs.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_Ass52Hs.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs5.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6FospT4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs6VospT4.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51os.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6FospT4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s6VospT4.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51os.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6FospT4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s6VospT4.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51os.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x7T2kn3.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6x_T2kn3.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT2g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3nWuZEC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3jWuZEC.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4-Lwz3bWuQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3nWuZEC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3jWuZEC.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B4873z3bWuQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3nWuZEC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3jWuZEC.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B46r2z3bWuQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3nWuZEC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3jWuZEC.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B47b1z3bWuQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3nWuZEC.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3jWuZEC.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/barlowcondensed/v12/HTxwL3I-JCGChYJ8VI-L6OO_au7B45L0z3bWuQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+
+
+/*-------------------------------------------------
+    [ ### training block ]
+*/
+.training-section {
+  position: relative;
+}
+
+.training-section .training-element-one {
+  position: absolute;
+  left: -6%;
+  bottom: 5%;
+}
+
+@media only screen and (max-width: 1199px) {
+  .training-section .training-element-one {
+    display: none;
+  }
+}
+
+.training-section .training-element-two {
+  position: absolute;
+  right: -10%;
+  bottom: 5%;
+}
+
+@media only screen and (max-width: 1199px) {
+  .training-section .training-element-two {
+    display: none;
+  }
+}
+
+.training-slider-area {
+  margin: -20px;
+}
+
+.training-slider {
+  overflow: hidden;
+  padding: 20px;
+}
+.training-item img{
+  width: 100%;
+  height: 100%;
+  
+}
+.training-item {
+
+  box-shadow: 0px 0px 10px #CFB53B26;
+  border-radius: 10px;
+  padding: 60px 40px;
+  position: relative;
+  overflow: hidden;
+
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  left: -200px;
+  height: 280px;
+  width: 500px;
+}
+
+.training-item .training-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 60px;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s;
+}
+
+.training-item .training-overlay .training-overlay-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.training-item .training-overlay .training-overlay-content .title {
+  color: black;
+}
+
+.training-item .training-overlay .training-overlay-content .training-btn a:hover {
+  border: 2px solid white;
+  color: #CFB53B;
+}
+
+.fa-brands {
+  font-size: 1.5rem;
+}
+
+.training-btn {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.training-item .training-overlay {
+  opacity: 1;
+  visibility: visible;
+}
+
+.training-icon {
+  margin-bottom: 25px;
+}
+
+.training-content .title {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+
+.training-section-two .training-element-one {
+  left: 3%;
+  bottom: 12%;
+}
+
+.training-section-two .training-element-two {
+  right: 3%;
+  bottom: 12%;
+}
+
+.training-section-two .training-item {
+  padding: 30px 20px;
+
+  border: 1px dashed rgba(232, 0, 0, 0.2);
+  box-shadow: none;
+  transition: all 0.5s;
+}
+
+.training-section-two .training-item .training-overlay {
+  align-items: center;
+  padding: 60px 20px;
+}
+
+.training-section-two .training-item .training-overlay.bg-overlay-base::after {
+  background: black;
+  opacity: .5;
+}
+
+.training-section-two .training-item .training-overlay .training-overlay-icon {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  background-color: #CFB53B;
+  border-radius: 50%;
+  color: white;
+  margin-bottom: 60px;
+  position: relative;
+  right: -80px;
+  transform: rotate(-50deg);
+  transition: all 0.3s;
+}
+
+@media only screen and (max-width: 500px) {
+  .training-section-two .training-item .training-overlay .training-overlay-icon {
+    right: -130px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .training-section-two .training-item .training-overlay .training-overlay-icon {
+    right: -80px;
+  }
+}
+
+.training-section-two .training-item .training-overlay .training-overlay-icon:hover {
+  width: 60px;
+  border-radius: 999px;
+}
+
+.training-section-two .training-item:hover {
+  border: 1px dashed transparent;
+  box-shadow: 0 15px 25px rgba(232, 0, 0, 0.15);
+}
+
+.training-section-two .training-icon {
+  height: 88px;
+}
+
+.training-section-two .training-icon img {
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+}
+
+.training-section-two .training-content .title {
+  margin-bottom: 0;
+}
+
+.training-section--style .training-element-one {
+  top: 0;
+  left: 0;
+  width: 20%;
+}
+
+.training-section--style .training-element-two {
+  bottom: 0;
+  left: 0;
+  width: 20%;
+}
+
+.training-section--style .training-element-three {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 20%;
+}
+
+.training-section--style .training-item {
+  box-shadow: 0px 15px 30px #CFB53B;
+  border-radius: 10px;
+  padding: 0;
+  position: relative;
+  z-index: 2;
+}
+
+.training-section--style .training-item::after {
+  position: absolute;
+  content: '';
+  bottom: -40px;
+  right: -30px;
+  width: 0;
+  height: 0;
+  background-color: #CFB53B;
+  border-radius: 50%;
+  transition: all 0.5s;
+  z-index: -1;
+}
+
+.training-section--style .training-item:hover::after {
+  width: 130px;
+  height: 130px;
+}
+
+.training-section--style .training-item:hover .training-content .training-footer-area .training-footer-btn a {
+  color: white;
+}
+
+.training-section--style .training-thumb img {
+  width: 100%;
+}
+
+.training-section--style .training-content {
+  padding: 25px;
+}
+
+.training-section--style .training-content .title a {
+  transition: all 0.5s;
+}
+
+.training-section--style .training-content .title a:hover {
+  color: #CFB53B;
+}
+
+.training-section--style .training-content .training-icon-area {
+  text-align: right;
+  margin-top: -60px;
+}
+
+.training-section--style .training-content .training-icon {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  display: inline-block;
+  text-align: center;
+  background-color: #CFB53B;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.training-section--style .training-content .training-footer-area {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.training-section--style .training-content .training-footer-area .title {
+  margin-bottom: 0;
+  font-weight: 700;
+  color: #CFB53B;
+}
+
+.training-section--style .training-content .training-footer-area .training-footer-btn a {
+  color: #CFB53B;
+  font-size: 24px;
+  transition: all 0.5s;
+}
+
+.load-more-btn a:hover {
+  animation: rotate 10s cubic-bezier(0.4, 0, 1, 1) infinite;
+}
+
+.training-section--style-two .training-item {
+  box-shadow: 0px 10px 10px rgba(232, 0, 0, 0.17);
+}
+
+.training-details-section .training-item {
+  background-color: transparent;
+  box-shadow: none;
+  overflow: visible;
+}
+
+.training-details-section .training-item::after {
+  display: none;
+}
+
+.training-details-section .training-content {
+  padding: 0;
+  padding-top: 30px;
+}
+
+.training-details-section .training-content-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.training-details-section .training-content-header .title {
+  margin-bottom: 0;
+  font-weight: 700;
+}
+
+.training-details-section .training-content-header .training-price .title {
+  font-weight: 700;
+  background-color: #CFB53B;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  margin-bottom: 0;
+}
+
+.training-details-section .widget-title {
+  font-size: 32px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 991px) {
+  .training-details-section .widget-title {
+    font-size: 22px;
+  }
+}
+
+.training-details-section .widget-title span {
+  color: #CFB53B;
+}
+
+.training-details-section .training-widget-footer .widget-title {
+  margin-bottom: 15px;
+}
+
+.training-details-section .training-widget-footer span {
+  font-weight: 700;
+}
+
+.training-details-section .learn-widget-wrapper {
+
+  padding: 30px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.training-details-section .learn-widget-wrapper .learn-widget-element {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  opacity: .6;
+}
+
+.training-details-section .learn-widget-item {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px dashed rgba(232, 0, 0, 0.2);
+}
+
+.training-details-section .learn-widget-item:last-child {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+.training-details-section .learn-widget-content .title {
+  font-weight: 600;
+  position: relative;
+  padding-left: 25px;
+}
+
+.training-details-section .learn-widget-content .title::before {
+  position: absolute;
+  content: "\f00c";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  top: 3px;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  line-height: 16px;
+  background-color: #CFB53B;
+  text-align: center;
+  font-size: 11px;
+  border-radius: 50%;
+  color: white;
+}
+
+.timer-widget-area {
+  background-color: #f5f5f5;
+  padding: 30px 30px 70px 30px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+@media only screen and (max-width: 991px) {
+  .timer-widget-area {
+    justify-content: center;
+    padding: 30px;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .timer-widget-area {
+    padding: 20px;
+  }
+}
+
+.timer-widget-area .training-element-one {
+  position: absolute;
+  left: auto;
+  right: 17%;
+  width: 20%;
+}
+
+@media only screen and (max-width: 1199px) {
+  .timer-widget-area .training-element-one {
+    display: none;
+  }
+}
+
+
+@media only screen and (max-width: 991px) {
+  .ptb-100 {
+    padding: 80px 0;
+  }
+}
+
+.ptb-120 {
+  padding: 120px 0;
+}
+
+@media only screen and (max-width: 991px) {
+  .ptb-120 {
+    padding: 80px 0;
+  }
+}
+
+.section-header-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 60px;
+}
+
+.section-header-wrapper .section-header {
+  margin-bottom: -5px;
+  width: 50%;
+}
+
+@media only screen and (max-width: 1199px) {
+  .section-header-wrapper .section-header {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .section-header-wrapper .section-header {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+.section-header-wrapper .section-header p {
+  margin-bottom: 0;
+}
+
+
+.slider-next,
+.slider-prev {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 22px;
+  background-color: transparent;
+  border: 1px solid #CFB53B;
+  border-radius: 50%;
+  color: #CFB53B;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.slider-next:hover,
+.slider-prev:hover {
+  background-color: rgba(232, 0, 0, 0.2);
+  border: 1px solid transparent;
+  color: #CFB53B;
+}
+
+.slider-next {
+  margin-left: 10px;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+
+.bg-overlay-base {
+  position: relative;
+}
+
+.bg-overlay-base:after {
+  content: "";
+  position: absolute;
+  background-image: linear-gradient(360deg, #A5A1FF 26%, rgba(25, 25, 25, 0) 100%);
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.bg-overlay-base>div {
+  position: relative;
+  z-index: 2;
+}
+
+
+.bg_img {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+.btn--base {
+  position: relative;
+  background: #CFB53B;
+  border: 2px solid #CFB53B;
+  color: white;
+  top: -10px;
+  padding: 12px 30px;
+  border-radius: 999px;
+  font-size: 16px;
+  font-weight: 600;
+  text-align: center;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+}
+
+
+.btn--base.active {
+  background: transparent;
+  border: 2px solid white;
+  color: white;
+}
+
+.btn--base.active:hover {
+  color: white;
+  background: black;
+  border: 2px solid #CFB53B;
+}
+
+.btn--base:focus,
+.btn--base:hover {
+  color: #CFB53B;
+  background-color: transparent;
+}
+
+@media only screen and (max-width: 991px) {
+  .btn--base {
+    padding: 10px 18px;
+    font-size: 13px;
+  }
+}
